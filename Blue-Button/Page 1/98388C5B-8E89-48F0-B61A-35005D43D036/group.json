@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "e9ce44e0-caa7-11ea-9b32-f159783ca49e",
+  "do_objectID": "98388C5B-8E89-48F0-B61A-35005D43D036",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 59,
+    "width": 255,
+    "x": -27,
+    "y": 234
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C97F5181-D292-40CA-ABAE-9193CC329622"
+      "class": "rectangle",
+      "id": "FA59F079-0B2F-446B-B0A2-CEF380251B2F"
     },
     {
-      "class": "group",
-      "id": "BCF1CF53-FDDC-4271-89ED-241A3A19B7C0"
-    },
-    {
-      "class": "group",
-      "id": "98388C5B-8E89-48F0-B61A-35005D43D036"
+      "class": "text",
+      "id": "FA3FB1AA-955E-40B9-AF63-E94BA74A0FBA"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Red-Button",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -92,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AF8B69D8-405C-443A-8AAB-F3F989133D3D",
+    "do_objectID": "0B3B88DC-D9DF-4EDB-813A-05453B9D4B17",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,11 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }
